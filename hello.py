@@ -1,4 +1,8 @@
-# immeditae execution
+# code1
+# code2
+# code3
+def hello():
+    print("Hello, World!")# immeditae execution
 print("Hello, World!")
 # This is a simple Python script that prints "Hello, World!" to the console.
 # It demonstrates the basic syntax of a Python program.
